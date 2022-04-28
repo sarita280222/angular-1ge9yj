@@ -33,7 +33,7 @@ export const products = [
   {
     id: 5,
     name: 'Laptop Mini',
-    price: 399,
+    price: 599,
     description: 'Amazing laptop with fast and easy to handle anywhere',
   },
 ];
